@@ -9,7 +9,7 @@ Implementation a minimalistic text-based RPG game.
 ***
 ### ***Usage:***
 * `Install maven and JDK, if you don't have.`
-* `git clone https://github.com/mshkliai/swingy.git`
+* `git clone https://github.com/mwingrov/swingy.git`
 * `cd swingy`
 * `mvn package`
 * `cd target`
